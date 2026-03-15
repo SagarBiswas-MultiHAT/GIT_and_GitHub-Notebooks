@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Git and GitHub Notebooks - Sagar Biswas</title>
+  <id>https://sagarbiswas-multihat.github.io/GIT_and_GitHub-Notebooks/feed.xml</id>
+  <updated>2026-03-15T00:00:00Z</updated>
+  <link href="https://sagarbiswas-multihat.github.io/GIT_and_GitHub-Notebooks/feed.xml" rel="self" />
+  <link href="https://sagarbiswas-multihat.github.io/GIT_and_GitHub-Notebooks/" />
+  <author>
+    <name>Sagar Biswas</name>
+  </author>
+  <entry>
+    <title>Git Commands Cheat Sheet and GitHub Workflow Guide</title>
+    <id>https://sagarbiswas-multihat.github.io/GIT_and_GitHub-Notebooks/</id>
+    <link href="https://sagarbiswas-multihat.github.io/GIT_and_GitHub-Notebooks/" />
+    <updated>2026-03-15T00:00:00Z</updated>
+    <summary>Git and GitHub tutorial notebooks covering setup, commits, branching, merges, and collaboration workflows.</summary>
+  </entry>
+</feed>
